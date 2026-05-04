@@ -52,3 +52,16 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 | **Repository Link**       | [View Hot/ColdGame Repository](https://github.com/Kalebk24/Chapter5_Assignment)                                                                           |
 
 [Back to TOC](#-Table-of-Contents)
+
+# SmartWatchFAQ
+
+| **Summary**               | generates an interactive FAQ page and if the user clicks the question, the program shows the answers and then updates the main objects image.             |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Technologies Used**     | Javascript/HTML/CSS                                                                                                                                       |
+| **Key Learning Concepts** | Working with nodes, DOM Manupilation, Using CSS Classes                                                                                                   |
+| **Project Status**        | 100% Completed                                                                                                                                            |
+| **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
+| **Thumbnail**             | <img width="650" height="430" alt="Screenshot 2026-03-05 162300" src="https://github.com/user-attachments/assets/61b8a572-445f-432c-bd30-aaceecb6254b" /> |
+| **Repository Link**       | [View SmartWatchFAQ Repository](https://github.com/Kalebk24/ch6_stop_watch)                                                                               |
+
+[Back to TOC](#-Table-of-Contents)
