@@ -41,6 +41,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 [Back to TOC](#-Table-of-Contents)
 
 # Hot/ColdGame
+
 | **Summary**               | lets user guess the number, the user recieves color coded messages based on how close the user is to guessing the correct number.                         |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Technologies Used**     | Javascript/HTML/CSS                                                                                                                                       |
@@ -49,6 +50,45 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 | **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
 | **Thumbnail**             | <img width="501" height="358" alt="Screenshot 2026-02-25 181912" src="https://github.com/user-attachments/assets/5ad4595e-d26f-40b6-ba4f-1cee58246bbf" /> |
 | **Repository Link**       | [View Hot/ColdGame Repository](https://github.com/Kalebk24/Chapter5_Assignment)                                                                           |
+
+[Back to TOC](#-Table-of-Contents)
+
+# SmartWatchFAQ
+
+| **Summary**               | generates an interactive FAQ page and if the user clicks the question, the program shows the answers and then updates the main objects image.             |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Technologies Used**     | Javascript/HTML/CSS                                                                                                                                       |
+| **Key Learning Concepts** | Working with nodes, DOM Manupilation, Using CSS Classes                                                                                                   |
+| **Project Status**        | 100% Completed                                                                                                                                            |
+| **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
+| **Thumbnail**             | <img width="650" height="430" alt="Screenshot 2026-03-05 162300" src="https://github.com/user-attachments/assets/61b8a572-445f-432c-bd30-aaceecb6254b" /> |
+| **Repository Link**       | [View SmartWatchFAQ Repository](https://github.com/Kalebk24/ch6_stop_watch)                                                                               |
+
+[Back to TOC](#-Table-of-Contents)
+
+# RetirementCountDown
+
+| **Summary**               | This program is a website that calculates the investment quantity of an initial investment over a period of time.                                         |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Technologies Used**     | Javascript/HTML/CSS                                                                                                                                       |
+| **Key Learning Concepts** | try-catch data validation, interval logic with a repeated function, local storage for most recent valid input                                             |
+| **Project Status**        | 100% Completed                                                                                                                                            |
+| **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
+| **Thumbnail**             | ![](https://github.com/AndrewBartsch42/Retirement-Countdown/blob/1d926800a45c6763533fce5a467beec66c3b3412/pictures/calculationcomplete.png)               |
+| **Repository Link**       | [View RetirementCountdown Repository](https://github.com/Kalebk24/Chap_8_9_10_Assign)                                                                               |
+
+[Back to TOC](#-Table-of-Contents)
+
+# SmartWatchFAQ
+
+| **Summary**               | generates an interactive FAQ page and if the user clicks the question, the program shows the answers and then updates the main objects image.             |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Technologies Used**     | Javascript/HTML/CSS                                                                                                                                       |
+| **Key Learning Concepts** | Working with nodes, DOM Manupilation, Using CSS Classes                                                                                                   |
+| **Project Status**        | 100% Completed                                                                                                                                            |
+| **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
+| **Thumbnail**             | <img width="650" height="430" alt="Screenshot 2026-03-05 162300" src="https://github.com/user-attachments/assets/61b8a572-445f-432c-bd30-aaceecb6254b" /> |
+| **Repository Link**       | [View SmartWatchFAQ Repository](https://github.com/Kalebk24/ch6_stop_watch)                                                                               |
 
 [Back to TOC](#-Table-of-Contents)
 
