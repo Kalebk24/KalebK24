@@ -87,7 +87,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 | **Key Learning Concepts** | Class data structures, Module Importing, Web Storage                                                                                                      |
 | **Project Status**        | 100% Completed                                                                                                                                            |
 | **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
-| **Thumbnail**             | <img width="829" height="346" alt="Screenshot 2026-05-04 182030" src="https://github.com/user-attachments/assets/04d9416f-1abc-4d38-92dc-2e0ce3ef038e"    |
+| **Thumbnail**             | <img width="829" height="346" alt="Screenshot 2026-05-04 182030" src="https://github.com/user-attachments/assets/04d9416f-1abc-4d38-92dc-2e0ce3ef038e" /> |
 | **Repository Link**       | [View MovieTracker Repository](https://github.com/Kalebk24/Chapter_11_12_13_Assign)                                                                       |
 
 [Back to TOC](#-Table-of-Contents)
