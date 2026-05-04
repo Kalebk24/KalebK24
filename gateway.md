@@ -39,3 +39,16 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 | **Repository Link**       | [View FlashCards Repository](https://github.com/Kalebk24/Chapter3_4_Assignment)                                                                           |
 
 [Back to TOC](#-Table-of-Contents)
+
+# Hot/ColdGame
+
+| **Summary**               | lets user guess the number, the user recieves color coded messages based on how close the user is to guessing the correct number.                         |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Technologies Used**     | Javascript/HTML/CSS                                                                                                                                       |
+| **Key Learning Concepts** | Math functions, Conditional logic with the switch, Data validation                                                                                        |
+| **Project Status**        | 100% Completed                                                                                                                                            |
+| **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
+| **Thumbnail**             | <img width="501" height="358" alt="Screenshot 2026-02-25 181912" src="https://github.com/user-attachments/assets/5ad4595e-d26f-40b6-ba4f-1cee58246bbf" /> |
+| **Repository Link**       | [View Hot/ColdGame Repository](https://github.com/Kalebk24/Chapter5_Assignment)                                                                           |
+
+[Back to TOC](#-Table-of-Contents)
