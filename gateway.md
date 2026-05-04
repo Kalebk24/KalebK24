@@ -6,8 +6,8 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 
 | Project                                          |Primary Tech | Category                 | Repository                                                           |
 |--------------------------------------------------|-------------|--------------------------|----------------------------------------------------------------------|
-| [CheckoutReceipt](#checkoutreceipt)           | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Javascript_Chapter1_2_Assignment) |
-| [FlashCards](#flashcards)                     | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter3_4_Assignment)            |
+| **[CheckoutReceipt](#checkoutreceipt)**           | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Javascript_Chapter1_2_Assignment) |
+| **[FlashCards](#flashcards)**                    | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter3_4_Assignment)            |
 | **[Hot/ColdGame](hot/coldgame)**                 | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter5_Assignment)              |
 | **[SmartWatchFAQ](smartwatchfaq)**               | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/ch6_stop_watch)                   |
 | **[RetirementCountdown](retirementcoutndown)**   | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chap_8_9_10_Assign)               |
