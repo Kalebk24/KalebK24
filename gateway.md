@@ -8,7 +8,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 |--------------------------------------------------|-------------|--------------------------|----------------------------------------------------------------------|
 | **[CheckoutReceipt](#checkoutreceipt)**          | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Javascript_Chapter1_2_Assignment) |
 | **[FlashCards](#flashcards)**                    | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter3_4_Assignment)            |
-| **[Hot/ColdGame](#hot/coldgame)**                 | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter5_Assignment)              |
+| **[GuessingGame](#guessinggame)**                 | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter5_Assignment)              |
 | **[SmartWatchFAQ](#smartwatchfaq)**               | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/ch6_stop_watch)                   |
 | **[RetirementCountDown](#retirementcountdown)**   | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chap_8_9_10_Assign)               |
 | **[MovieTracker](#movietracker)**                 | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter_11_12_13_Assign)          |
@@ -40,7 +40,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 
 [Back to TOC](#-Table-of-Contents)
 
-# Hot/ColdGame
+# GuessingGame
 
 | **Summary**               | lets user guess the number, the user recieves color coded messages based on how close the user is to guessing the correct number.                         |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,7 +49,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 | **Project Status**        | 100% Completed                                                                                                                                            |
 | **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
 | **Thumbnail**             | <img width="501" height="358" alt="Screenshot 2026-02-25 181912" src="https://github.com/user-attachments/assets/5ad4595e-d26f-40b6-ba4f-1cee58246bbf" /> |
-| **Repository Link**       | [View Hot/ColdGame Repository](https://github.com/Kalebk24/Chapter5_Assignment)                                                                           |
+| **Repository Link**       | [View GuessingGame Repository](https://github.com/Kalebk24/Chapter5_Assignment)                                                                           |
 
 [Back to TOC](#-Table-of-Contents)
 
@@ -101,6 +101,6 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 | **Project Status**        | 100% Completed                                                                                                                                            |
 | **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
 | **Thumbnail**             | <img width="655" height="594" alt="Screenshot 2026-04-30 155145" src="https://github.com/user-attachments/assets/a3ad6fad-6bd1-47d3-ae5e-ef14d3f01d6e" /> |
-| **Repository Link**       | [View SmartWatchFAQ Repository](https://github.com/Kalebk24/ch6_stop_watch)                                                                               |
+| **Repository Link**       | [View CountryAPI Repository](https://github.com/Kalebk24/Chapter_14_15_Assign)                                                                            |
 
 [Back to TOC](#-Table-of-Contents)
