@@ -10,7 +10,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 | **[FlashCards](#flashcards)**                    | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter3_4_Assignment)            |
 | **[Hot/ColdGame](#hot/coldgame)**                 | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter5_Assignment)              |
 | **[SmartWatchFAQ](#smartwatchfaq)**               | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/ch6_stop_watch)                   |
-| **[RetirementCountdown](#retirementcoutndown)**   | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chap_8_9_10_Assign)               |
+| **[RetirementCountDown](#retirementcoutndown)**   | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chap_8_9_10_Assign)               |
 | **[MovieTracker](#movietracker)**                 | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter_11_12_13_Assign)          |
 | **[CountryAPI](#countryapi)**                     | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter_14_15_Assign)             |
 
