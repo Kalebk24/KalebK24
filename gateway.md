@@ -1,8 +1,8 @@
-# Kaleb's Gateway
+# 🧠Kaleb's Gateway
 Hi I’m Kaleb, an undergraduate student studying Computer Information Systems and Program Analysis with a minor in Computer Science. Welcome to my Developer Github Porfolio repository. A
 potal to all the projects I had to be a part of for my **CSC 465 Advanced Web Dev course**. 
 
-# Table of Contents
+# 📁Table of Contents
 
 | Project                                          |Primary Tech | Category                 | Repository                                                           |
 |--------------------------------------------------|-------------|--------------------------|----------------------------------------------------------------------|
@@ -14,7 +14,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 | **[MovieTracker](#movietracker)**                 | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter_11_12_13_Assign)          |
 | **[CountryAPI](#countryapi)**                     | Javascript  | CSC 465 Advanced Web Dev | [Repo](https://github.com/Kalebk24/Chapter_14_15_Assign)             |
 
-# CheckoutReceipt
+# 🧾CheckoutReceipt
 
 | **Summary**               | Provides a grocery checkout receipt in a alert box after validating users input like name, grocery item, unit price, quantity and cash.                   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 
 [Back to TOC](#-Table-of-Contents)
 
-# FlashCards
+# 🎲FlashCards
 
 | **Summary**               | This program lets users add, list, clear, quiz and load default questions.                                                                                |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,7 +40,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 
 [Back to TOC](#-Table-of-Contents)
 
-# GuessingGame
+# 🎮GuessingGame
 
 | **Summary**               | lets user guess the number, the user recieves color coded messages based on how close the user is to guessing the correct number.                         |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 
 [Back to TOC](#-Table-of-Contents)
 
-# SmartWatchFAQ
+# ⏱️SmartWatchFAQ
 
 | **Summary**               | generates an interactive FAQ page and if the user clicks the question, the program shows the answers and then updates the main objects image.             |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 
 [Back to TOC](#-Table-of-Contents)
 
-# RetirementCountDown
+# 📲RetirementCountDown
 
 | **Summary**               | This program is a website that calculates the investment quantity of an initial investment over a period of time.                                         |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -79,7 +79,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 
 [Back to TOC](#-Table-of-Contents)
 
-# MovieTracker
+# 🎦MovieTracker
 
 | **Summary**               | Use this app to save all your favorite movies into your browsers storage.                                                                                 |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -92,7 +92,7 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 
 [Back to TOC](#-Table-of-Contents)
 
-# CountryAPI
+# 🌎CountryAPI
 
 | **Summary**               | This program is a web service using Node.js and Express that fetches and displays data from a real-world public API.                                      |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
