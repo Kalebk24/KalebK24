@@ -26,3 +26,16 @@ potal to all the projects I had to be a part of for my **CSC 465 Advanced Web De
 | **Repository Link**       | [View CheckoutReceipt Repository](https://github.com/Kalebk24/Javascript_Chapter1_2_Assignment)                                                           |
 
 [Back to TOC](#-Table-of-Contents)
+
+# FlashCards
+
+| **Summary**               | This program lets users add, list, clear, quiz and load default questions.                                                                                |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Technologies Used**     | Javascript/HTML/CSS                                                                                                                                       |
+| **Key Learning Concepts** | DOM manupilation, User Input Validation, Switch cases                                                                                                     |
+| **Project Status**        | 100% Completed                                                                                                                                            |
+| **Course**                | CSC 465 Advanced Web Development                                                                                                                          |
+| **Thumbnail**             | <img width="854" height="363" alt="Screenshot 2026-02-11 172427" src="https://github.com/user-attachments/assets/80002f99-9e7e-4dc6-b994-2da19ff83bc1" /> |
+| **Repository Link**       | [View FlashCards Repository](https://github.com/Kalebk24/Chapter3_4_Assignment)                                                                           |
+
+[Back to TOC](#-Table-of-Contents)
